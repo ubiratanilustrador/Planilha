@@ -1,2 +1,2 @@
 # planilha
-Algoritmo de python manipulando uma planilha
+Algoritmo de python manipulando uma planilha do calc
